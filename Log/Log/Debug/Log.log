@@ -1,0 +1,8 @@
+﻿  TestLog.cpp
+f:\pratice\log\log\log\testlog.cpp(24): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  f:\pratice\log\log\log\testlog.cpp(24): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  f:\pratice\log\log\log\testlog.cpp(24): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  f:\pratice\log\log\log\testlog.cpp(24): note: 此参数用作缓冲区大小
+f:\pratice\log\log\log\testlog.cpp(11): warning C4101: “log”: 未引用的局部变量
+  Log.vcxproj -> F:\pratice\log\Log\Debug\Log.exe
+  Log.vcxproj -> F:\pratice\log\Log\Debug\Log.pdb (Full PDB)
